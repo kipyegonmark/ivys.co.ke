@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Ivys Inn and Guest House
+email: info@ivys.co.ke
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://ivys.co.ke" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
